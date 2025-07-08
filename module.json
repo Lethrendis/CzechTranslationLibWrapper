@@ -22,7 +22,7 @@
       "path": "lang/cs.json"
     }
   ],
-  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationLibWrapper/main/module.json",
-  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationLibWrapper/main/module.json",
-  "download": "https://github.com/Lethrendis/CzechTranslationLibWrapper/archive/refs/heads/main.zip"
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationLibWrapper/Core12/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationLibWrapper/Core12/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationLibWrapper/archive/refs/heads/Core12.zip"
 }
